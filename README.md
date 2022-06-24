@@ -8,6 +8,10 @@
 - The models that are tested are Multinomial Naive Bayes, Logistic Regression, Random Forest Classification, Support Vector Classification, and K-Nearest Neighbor Classification.
 - This can be used to reduce instances of spamming.
 
+<p align="center">
+<img src="spam-words.png" width="500" alt="spam">
+</p>
+
 
 ## Code and Resources Used
 **Python Version:** 3.9 <br> 
